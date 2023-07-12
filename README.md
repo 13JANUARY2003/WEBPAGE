@@ -1,2 +1,7 @@
-# WEBPAGE
-This is my first web page created using html.
+<html>
+<head>
+<title>WEB PAGE</title>
+</head>
+<body>
+<h1>WELCOME TO MY WEB PAGE</h1>
+</body></html>
